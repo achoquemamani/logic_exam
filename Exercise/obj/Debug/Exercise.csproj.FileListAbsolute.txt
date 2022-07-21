@@ -1,0 +1,8 @@
+D:\Repositorios\Github\logic_exam_EY\Exercise\bin\Debug\Exercise.exe.config
+D:\Repositorios\Github\logic_exam_EY\Exercise\bin\Debug\Exercise.exe
+D:\Repositorios\Github\logic_exam_EY\Exercise\bin\Debug\Exercise.pdb
+D:\Repositorios\Github\logic_exam_EY\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+D:\Repositorios\Github\logic_exam_EY\Exercise\obj\Debug\Exercise.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\Github\logic_exam_EY\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+D:\Repositorios\Github\logic_exam_EY\Exercise\obj\Debug\Exercise.exe
+D:\Repositorios\Github\logic_exam_EY\Exercise\obj\Debug\Exercise.pdb
